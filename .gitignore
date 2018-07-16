@@ -8,5 +8,5 @@ lunar.egg-info/
 build/
 dist/
 docs/build/
-venv/
+env/
 wheelhouse/
